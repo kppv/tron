@@ -3,6 +3,8 @@ import time
 import requests
 from loguru import logger
 
+# Fetch new tokens from https://sunpump.meme/
+
 processed_event_ids = set()
 
 
